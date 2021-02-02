@@ -3,7 +3,7 @@ Shmup-themed Layout
 
 Original post: http://forum.attractmode.org/index.php?topic=3884.0
 
-This is a basic layout styled after NeoGeo look and feel. 
+This is a basic layout styled after Vertical shoot-em-ups look and feel. 
 
 ![King of Air Sample](https://raw.githubusercontent.com/mahuti/King-of-Air/master/king_of_air.jpg)
 
